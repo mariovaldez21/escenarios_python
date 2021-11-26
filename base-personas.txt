@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Karen",
+        "last_name": "Montoya",
+        "email": "karen@gmail.com",
+        "salary": "10000",
+        "phone": "78451245",
+        "address": "San Salvador",
+        "dui": "04568983-4"
+    },
+    {
+        "name": "Tito",
+        "last_name": "Merino",
+        "email": "merinotito6@gmail.com",
+        "salary": "1500",
+        "phone": "61511478",
+        "address": "San Vicente",
+        "dui": "04812589-8"
+    },
+    {
+        "name": "Mario",
+        "last_name": "Balloteli",
+        "email": "mario@gmail.com",
+        "salary": "4000",
+        "phone": "78451245",
+        "address": "San Salvador",
+        "dui": "04812583-5"
+    },
+    {
+        "name": "Luna",
+        "last_name": "Maria",
+        "email": "marialuna@gmail.com",
+        "salary": "5000",
+        "phone": "78451256",
+        "address": "San Bartolo",
+        "dui": "02312583-4"
+    },
+    {
+        "name": "Tito",
+        "last_name": "Aguilar",
+        "email": "aguilar@gmail.com",
+        "salary": "784",
+        "phone": "45785689",
+        "address": "San benito",
+        "dui": "56892583-4"
+    },
+    {
+        "name": "Andres",
+        "last_name": "Fer",
+        "email": "fer@gmail.com",
+        "salary": "780",
+        "phone": "78543267",
+        "address": "San Miguel",
+        "dui": "01784512-9"
+    }
+]
