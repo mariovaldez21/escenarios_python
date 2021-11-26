@@ -37,12 +37,12 @@
     },
     {
         "name": "Tito",
-        "last_name": "Aguilar",
-        "email": "aguilar@gmail.com",
-        "salary": "784",
-        "phone": "45785689",
-        "address": "San benito",
-        "dui": "56892583-4"
+        "last_name": "apellido2",
+        "email": "1234@yase",
+        "salary": "3700",
+        "phone": "775599221",
+        "address": "camino de santiago",
+        "dui": "56892583-5"
     },
     {
         "name": "Andres",
